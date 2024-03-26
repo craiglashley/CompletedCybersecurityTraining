@@ -7,27 +7,13 @@ Included:
 -  [How to Build a Cybersecurity Home Lab](https://cyberkrafttraining.com/product/how-to-build-a-cybersecurity-home-lab/)
 -  [CertMaster Learn for Security+ Training Full Access](https://www.comptia.org/training/certmaster-learn/security)
 
-<h2>TryHackMe Achievements</h2>
-TryHackMe Badges:
+  <h2>Udemy</h2>
 
-- [cat linux.txt Badge](https://tryhackme.com/CraigLashley/badges/terminaled)
-- [Networking Nerd Badge](https://tryhackme.com/CraigLashley/badges/network-fundamentals)
-- [Webbed Badge](https://tryhackme.com/CraigLashley/badges/web-fund)
-- [Wireshark Badge](https://tryhackme.com/CraigLashley/badges/wireshark)
-- [World Wide Web Badge](https://portswigger.net/burp/documentation/desktop/getting-started/setting-target-scope)
+- [Completed: SC-900 Microsoft Security Fundamentals Exam Prep](https://www.udemy.com/course/sc900-azure)
+- [In-Progress: The Complete Python Developer Certification Course](https://www.udemy.com/course/the-complete-python-developer-certification-course)
 
-<h2>TryHackMe Completed Rooms</h2>
-Rooms Completed:
+ <h2>Whizlabs</h2>
 
-- [Extending Your Network](https://tryhackme.com/room/extendingyournetwork)
-- [Intro to Lan](https://tryhackme.com/room/introtolan)
-- [Introduction to SIEM](https://tryhackme.com/r/room/introtosiem)
-- [Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo)
-- [Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
-- [MITRE](https://tryhackme.com/r/room/mitre)
-- [OSI Model](https://tryhackme.com/room/osimodelzi)
-- [What is Networking?](https://tryhackme.com/room/whatisnetworking)
-- [Wireshark 101](https://tryhackme.com/r/room/wireshark)
-- [Wireshark: The Basics](https://tryhackme.com/room/wiresharkthebasics)
-
+- [Completed: AWS Certified Solutions Architect Associate](https://www.whizlabs.com/aws-solutions-architect-associate/)
+- [Completed: Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals](https://www.whizlabs.com/microsoft-security-compliance-identity-fundamentals-sc-900-certification/)
 
