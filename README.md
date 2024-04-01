@@ -3,7 +3,7 @@
 <h2>CyberKraft Security+ Bootcamp</h2>
 Included:
 
--  [Security+ Bootcamp](https://cyberkrafttraining.com/comptia-security-bootcamp/)
+-  [CyberKraft Security+ Bootcamp](https://cyberkrafttraining.com/comptia-security-bootcamp/)
 -  [How to Build a Cybersecurity Home Lab](https://cyberkrafttraining.com/product/how-to-build-a-cybersecurity-home-lab/)
 -  [CertMaster Learn for Security+ Training Full Access](https://www.comptia.org/training/certmaster-learn/security)
 
