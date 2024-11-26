@@ -1,5 +1,9 @@
 <h1>Completed Cybersecurity Training</h1>
 
+<h2>CyberKraft CompTIA CySA+ Course – CS0-003 - IN PROGRESS - START DATE 11/26/2024</h2>
+
+-  [CompTIA CySA+ Course – CS0-003](https://cyberkrafttraining.com/product/comptia-cysa-course-cs0-003/)
+
 <h2>CyberKraft Security+ Bootcamp</h2>
 Included:
 
