@@ -1,5 +1,10 @@
 <h1>Completed Cybersecurity Training</h1>
 
+<h2>CISA Training</h2>
+
+-  [ Basics of Zero Trust for Federal Agencies](https://github.com/user-attachments/assets/d064b754-c04f-44d1-9928-1d0477c3420d)
+-  [ Cyber Supply Chain Risk Management](https://github.com/user-attachments/assets/d642120a-af3c-43b5-bb25-cbec138e81e0)
+
 <h2>CyberKraft CompTIA CySA+ Course – CS0-003 - IN PROGRESS - START DATE 11/26/2024</h2>
 
 -  [CompTIA CySA+ Course – CS0-003](https://cyberkrafttraining.com/product/comptia-cysa-course-cs0-003/)
